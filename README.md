@@ -25,6 +25,8 @@
 Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end. 
 Me gusta aprender constantemente y construir proyectos nuevos, productivos, innovadores y creativos.
 
+
+## My Skills Include
 <!-- Lenguajes -->
 <h4> Languages </h4>
 <span> 
