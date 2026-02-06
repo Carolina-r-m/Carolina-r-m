@@ -6,12 +6,14 @@
 <br>
 <div align="center">
 
+</br> 
 
-</br>
-
+<!-- Presentación sobre mi -->
 
 🌱Soy Desarrolladora de aplicaciones Web, actualmente empezando mi TFG. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end. Me encanta aprender y construir algo nuevo, productivo, innovador y creativo
 
+
+<!-- Lenguajes -->
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -25,16 +27,6 @@
 <hr>
 
 </h2>
-🛠 Languages 
-
-
-!Java
-!JavaScript
-!PHP
-!HTML5
-!CSS3
-
-<br>
 
 
 🔧 Tools
