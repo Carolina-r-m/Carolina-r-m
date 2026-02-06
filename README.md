@@ -21,8 +21,9 @@
 
 <!-- Presentación sobre mi -->
 
-🌱Soy Desarrolladora de aplicaciones Web, actualmente empezando mi TFG. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end. Me encanta aprender y construir algo nuevo, productivo, innovador y creativo
-
+🌱 Soy Desarrolladora de Aplicaciones Web y actualmente estoy empezando mi TFG. 
+Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end. 
+Me gusta aprender constantemente y construir proyectos nuevos, productivos, innovadores y creativos.
 
 <!-- Lenguajes -->
 <h4> Languages </h4>
