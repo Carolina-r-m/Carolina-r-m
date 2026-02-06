@@ -22,34 +22,15 @@
 
 🌱Soy Desarrolladora de aplicaciones Web, actualmente empezando mi TFG. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end. Me encanta aprender y construir algo nuevo, productivo, innovador y creativo
 
-Web Development
-<table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
-</td>
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
-<td align="center" width="33%">
-<img height=70px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
-</td>
+</span>
 
-</tr>
-
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
-</td>
-
-
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
-</td>
-
-</tr>
-
-</tbody>
-</table>
 
 <hr>
 
