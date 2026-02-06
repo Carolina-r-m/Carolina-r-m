@@ -26,9 +26,9 @@ Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end.
 Me gusta aprender constantemente y construir proyectos nuevos, productivos, innovadores y creativos.
 
 
-## My Skills Include
+## Mis habilidades incluyen
 <!-- Lenguajes -->
-<h4> Languages </h4>
+<h4> Lenguajes </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -40,7 +40,7 @@ Me gusta aprender constantemente y construir proyectos nuevos, productivos, inno
 </h2>
 
 
-<h4>🧰 Other Tools and Technologies</h4>
+<h4>🧰 Otras herramientas y tecnologías</h4>
 
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
