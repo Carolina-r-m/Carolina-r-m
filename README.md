@@ -57,7 +57,8 @@ Me gusta aprender constantemente y construir proyectos nuevos, productivos, inno
 </span>
 
 <br><br>
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;##Mis estadisticas
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
+<h4>Mis estadísticas</h4>
 
 <p align="center">
   <a href="https://github.com/carolinarmuriel">
