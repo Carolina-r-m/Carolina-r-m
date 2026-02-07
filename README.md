@@ -64,6 +64,13 @@ Me gusta aprender constantemente y construir proyectos nuevos, productivos, inno
   </a>
 </p>
 
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Mis estádisticas 
+<p align="center">
+  <a href="https://github.com/carolinarmuriel">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Carolina-r-m&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Carolina-r-m&layout=compact&langs_count=5&theme=algolia&hide=python,c,cplusplus,r,typescript,react,nodejs"/>
+  </a>
+</p>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
