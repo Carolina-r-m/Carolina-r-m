@@ -56,6 +56,8 @@ Me gusta aprender constantemente y construir proyectos nuevos, productivos, inno
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white">
 </span>
 
+</br>
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Mis estádisticas 
 
 <p align="center">
   <a href="https://github.com/carolinarmuriel">
@@ -64,7 +66,7 @@ Me gusta aprender constantemente y construir proyectos nuevos, productivos, inno
   </a>
 </p>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Mis estádisticas 
+
 <p align="center">
   <a href="https://github.com/carolinarmuriel">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Carolina-r-m&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
