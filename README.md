@@ -56,7 +56,7 @@ Me gusta aprender constantemente y construir proyectos nuevos, productivos, inno
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white">
 </span>
 
-</br>
+<br><br>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; Mis estádisticas 
 
 <p align="center">
