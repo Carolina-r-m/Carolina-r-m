@@ -115,11 +115,13 @@ Plataforma web de gamificación turística basada en geocaching y geolocalizaci�
   </a>
 </p>
 
-<h3 align="center">📅 Mis contribuciones</h3>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/carolinarmuriel" alt="Contribuciones de Carolina en GitHub">
-</p>
+### 📈 Mi actividad en GitHub
+
+[![Actividad de Carolina en GitHub](https://ghchart.rshah.org/409ba5/carolinarmuriel)](https://github.com/carolinarmuriel)
+
+[Ver mi perfil y todas mis contribuciones](https://github.com/carolinarmuriel)
+
 
 <h2 align="center">🤝 Contacta conmigo</h2>
 
