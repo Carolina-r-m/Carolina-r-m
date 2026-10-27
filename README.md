@@ -115,7 +115,7 @@ Plataforma web de gamificación turística basada en geocaching y geolocalizaci�
   </a>
 </p>
 
-### 📈 Cuenta de estudios
+### 📈 Mi actividad en GitHub
 
 [![Actividad de Carolina en GitHub](https://ghchart.rshah.org/409ba5/Carolina-r-m)](https://github.com/Carolina-r-m)
 
